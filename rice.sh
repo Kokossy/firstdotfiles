@@ -29,9 +29,6 @@ cd polybar-themes
 chmod +x setup.sh
 ./setup.sh
 
-git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
-nvim +'hi NormalFloat guibg=#1e222a' + PackerSync
-
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 git clone https://github.com/Kokossy/firstdotfiles
