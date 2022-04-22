@@ -1,7 +1,6 @@
 #add to repo: config bspwm, ocnfig sxhkd config xinitrc and /etc/xdg/picom.conf
 #tapeta mosi sie nazywac basic.jpg
 
-sudo pacman -S git base-devel
 cd ~
 mkdir Downloads
 mkdir Wallpapers
