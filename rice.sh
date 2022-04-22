@@ -11,7 +11,7 @@ cd yay-bin
 makepkg -si
 
 yay -S mpd libmpdclient
-yay -S picom bspwm dunst polybar arandr rofi sxhkd nitrogen kitty rxvt-unicode neovim brave-bin nautilus rofi-dmenu lxappearance gedit gnome-disk-utility gnome-control-center alsa-utils sddm xorg-xsetroot calc pywal networkmanagwer-dmenu neofetch zsh ripgrep gnome-font-viewer nerd-fonts-fira-code nerd-fonts-hack noto-fonts-emoji nerd-fonts-jetbrains-mono spotify discord visual-studio-code-bin catppuccin-gtk-theme gnome-keyring cava cmatrix xdg-user-dirs-gtk pavucontrol
+yay -S picom bspwm dunst polybar arandr rofi sxhkd nitrogen kitty rxvt-unicode neovim brave-bin nautilus rofi-dmenu lxappearance gedit gnome-disk-utility gnome-control-center alsa-utils sddm xorg-xsetroot calc pywal networkmanager-dmenu neofetch zsh ripgrep gnome-font-viewer nerd-fonts-fira-code nerd-fonts-hack noto-fonts-emoji nerd-fonts-jetbrains-mono spotify discord visual-studio-code-bin catppuccin-gtk-theme gnome-keyring cava cmatrix xdg-user-dirs-gtk pavucontrol
 
 cd ~
 mkdir .config/bspwm
