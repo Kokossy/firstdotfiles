@@ -1,5 +1,5 @@
-super
-	rofi -show drun
+XF86AudioMute
+	amixer -q set Master toggle
 #
 # wm independent hotkeys
 #
